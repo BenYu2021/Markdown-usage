@@ -51,3 +51,18 @@ ___粗斜体文本___
 我展示的是二级标题
 -----------------
 
+
+Markdown 图片
+Markdown 图片语法格式如下：
+
+![alt 属性文本](图片地址)
+
+![alt 属性文本](图片地址 "可选标题")
+开头一个感叹号 !
+接着一个方括号，里面放上图片的替代文字
+接着一个普通括号，里面放上图片的网址，最后还可以用引号包住并加上选择性的 'title' 属性的文字。
+使用实例：
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png)
+
+![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
