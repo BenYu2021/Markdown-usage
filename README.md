@@ -2,7 +2,7 @@
 
 <https://www.runoob.com/markdown/md-tutorial.html>
 
-# [Markdown换行 多行换行](https://www.jianshu.com/p/763e5b531d8f)  
+# 1. [Markdown换行 多行换行](https://www.jianshu.com/p/763e5b531d8f)  
 空格 + 空格 + enter
 
 ```markdown
@@ -52,7 +52,7 @@ ___粗斜体文本___
 -----------------
 
 
-# Markdown 图片
+# 2. Markdown 图片
 Markdown 图片语法格式如下：
 
 
@@ -69,6 +69,6 @@ Markdown 图片语法格式如下：
 
 ![RUNOOB 图标](http://static.runoob.com/images/runoob-logo.png "RUNOOB")
 
-# 文件链接
-\%20 替换文件名中的空格
-\[第1章 简介](./notes/第01章%20简介.md)
+# 3. 文件链接
+\%20 替换文件名中的空格  
+\[第1章 简介](./notes/第01章%20简介.md)  
