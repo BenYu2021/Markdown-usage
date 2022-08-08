@@ -1,5 +1,8 @@
 # markdown用法
 
+# github markdown文档
+https://docs.github.com/cn/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+
 <https://www.runoob.com/markdown/md-tutorial.html>
 
 # 1. [Markdown换行 多行换行](https://www.jianshu.com/p/763e5b531d8f)  
